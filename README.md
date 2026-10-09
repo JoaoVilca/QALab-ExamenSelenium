@@ -1,1 +1,2 @@
-# QALab-ExamenSelenium
+# QAInnovationLab
+Automation Team / For education purpose
